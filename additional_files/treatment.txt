@@ -1,0 +1,20 @@
+SRR12320980	Jurkat cell infected by HIV-1U3tag	Jurkat_WT_HIV1U3tag_S1
+SRR12320979	Jurkat cell infected by HIV-1U3tag	Jurkat_NT_HIV1U3tag_S2
+SRR12320978	Jurkat cell infected by HIV-1U3tag	Jurkat_LEDGFKO_1-F10_HIV1U3tag_S3
+SRR12320977	Jurkat cell infected by HIV-1U3tag	Jurkat_LEDGFKO_2-F10_HIV1U3tag_S4
+SRR12321006	Jurkat-CKD group	Jurkat_NC_HIV1_S1
+SRR12321005	Jurkat-CKD group	Jurkat_NC_HIV1rep_S2
+SRR12320994	Jurkat-CKD group	Jurkat_CKD_HIV1_S3
+SRR12320989	Jurkat-CKD group	Jurkat_CKD_HIV1rep_S4
+SRR12322278	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_WT_HIV1rep_S19
+SRR12322277	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_LKO_HIV1rep_S20
+SRR12322276	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_IBD-/-_HIV1_S3
+SRR12322275	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_IBD-/-_HIV1rep_S21
+SRR12322252	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_WT_HIV1_S1
+SRR12322251	Jurkat cell knockout LEDGF/p75 or integratase binding domain were infected by lentivirus	Jurkat_LKO_HIV1_S2
+SRR12330762	Jurkat_WT_S1_HIV-1WT	Jurkat_A77V_HIV1_A77Vrep_S6
+SRR12330761	Jurkat_WT_S1_HIV-1WT	Jurkat_WT_HIV1_WT_S1
+SRR12330760	Jurkat_WT_S1_HIV-1WT	Jurkat_WT_HIV1_WTrep_S2
+SRR12330759	Jurkat_WT_S1_HIV-1WT	Jurkat_N74D_HIV1_N74D_S3
+SRR12330758	Jurkat_WT_S1_HIV-1WT	Jurkat_N74D_HIV1_N74Drep_S4
+SRR12330757	Jurkat_WT_S1_HIV-1WT	Jurkat_A77V_HIV1_A77V_S5
