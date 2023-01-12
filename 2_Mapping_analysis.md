@@ -3,7 +3,8 @@ BBTOOLS=/YOURPATH/bbmap_37.23/
 
 ##### Filtering based on linker sequence:
 
-# Sample sequence data which includes linker sequence as part of reads can be additionaly filtered based on this. By keeping only reads which have a match to linker sequence, we ensure that randomly sequenced parts are removed and only mappings which most likely represent real integration sites are kept. Next step is performed on samples in which linker sequence was found amongst overrepresented sequences in QC.
+Sample sequence data which includes linker sequence as part of reads can be additionaly filtered based on this. By keeping only reads which have a match to linker sequence, we ensure that randomly sequenced parts are removed and only mappings which most likely represent real integration sites are kept. Next step is performed on samples in which linker sequence was found amongst overrepresented sequences in QC.
+
 ```{bash}
 
 for sample in `cat e02254-20_ISHIV1accessions_linkerpresent.txt`
